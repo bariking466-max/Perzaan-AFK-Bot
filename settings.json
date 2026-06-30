@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "MCFleetOG-FWCc.aternos.me",
+    "port":13705 ,
     "version": "1.21.1"
   },
   "position": {
